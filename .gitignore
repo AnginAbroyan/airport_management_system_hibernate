@@ -32,7 +32,7 @@
 *.log
 
 *.idea
-.idea
+workspace.xml
 
 # Package Files #
 *.jar

@@ -179,7 +179,6 @@ public class PassengerSeviceImp implements PassengerService {
 
     @Override
     public void registerTrip(Trip trip, Passenger passenger) {
-
     }
 
     @Override
